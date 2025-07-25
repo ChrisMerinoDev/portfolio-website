@@ -21,13 +21,13 @@ const SkillsSection = () => {
       { name: "Node.js", level: 75 },
       { name: "Express.js", level: 70 }
     ],
-    "Styling & Design": [
+    "Styling & State Management": [
       { name: "Tailwind CSS", level: 95 },
       { name: "ShadCN", level: 85 },
-      { name: "Sass", level: 80 },
-      { name: "Framer Motion", level: 75 }
+      { name: "Zustand", level: 80 },
+      { name: "React Context API", level: 75 }
     ],
-    "Tools & Technologies": [
+    "Tools & Database": [
       { name: "Git & GitHub", level: 85 },
       { name: "Vercel", level: 90 },
       { name: "VS Code", level: 95 },
@@ -36,8 +36,8 @@ const SkillsSection = () => {
   };
 
   const additionalSkills = [
-    "Zustand", "React Context API", "Zod", "Form Validation", 
-    "REST APIs", "Responsive Design", "Cloudinary", "CRUD Operations"
+    "Zod", "Custom Form Validation", "REST APIs", "Framer Motion", 
+    "Responsive Design", "Cloudinary", "CRUD Operations", "JWT Authentication"
   ];
 
   useEffect(() => {

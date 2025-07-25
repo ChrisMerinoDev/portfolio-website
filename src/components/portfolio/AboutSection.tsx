@@ -23,11 +23,11 @@ const AboutSection = () => {
   }, []);
 
   const highlights = [
-    "Self-taught developer with strong project-driven learning",
+    "Project-driven developer with strong hands-on experience",
     "Skilled in modern React ecosystem and TypeScript",
     "Focus on responsive, accessible web applications",
-    "Experience with full-stack development",
-    "Passionate about clean, scalable code"
+    "Experience with full-stack development and CRUD operations",
+    "Passionate about clean, scalable code and modern dev practices"
   ];
 
   return (
@@ -51,7 +51,7 @@ const AboutSection = () => {
                     Professional Summary
                   </h3>
                   <p className="text-muted-foreground text-lg leading-relaxed">
-                    Self-taught and project-driven Frontend Developer skilled in React, Next.js, TypeScript, and Tailwind CSS. 
+                    Project-driven Frontend Developer skilled in React, Next.js, TypeScript, and Tailwind CSS. 
                     Passionate about building responsive, accessible, and visually engaging applications. Proven ability to build 
                     fully functional, production-ready apps — both frontend-focused and full-stack.
                   </p>

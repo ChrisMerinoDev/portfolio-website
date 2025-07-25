@@ -14,7 +14,7 @@ const ProjectsSection = () => {
   const projects = [
     {
       title: "PlumTech – E-commerce Store",
-      description: "A sleek tech e-commerce platform featuring a dark navy design with premium product showcase. The homepage displays three main categories (Laptops, Phones, Headphones) with featured products including the PlasmaBook X1, Celestia One, and EchoZen Pro. Built with modern React architecture and smooth animations.",
+      description: "Designed and built a high-fidelity, Apple-style ecommerce site to demonstrate advanced frontend capabilities. Built dynamic routing for product categories (Phones, Laptops, Audio). Created a global cart system using Zustand, with item quantity controls and total calculation. Focused on polished UI, smooth user interactions, and responsive design across all devices.",
       technologies: ["React", "Next.js", "TypeScript", "Zustand", "Tailwind CSS", "Framer Motion"],
       github: "https://github.com/ChrisMerinoDev/PlumTech",
       live: "https://plum-tech.vercel.app/",
@@ -23,7 +23,7 @@ const ProjectsSection = () => {
     },
     {
       title: "FitTrakr – Fitness Tracker App",
-      description: "A clean, minimalist fitness tracking application with a simple and intuitive landing page. Features a centered logo, clear call-to-action, and professional design focused on user experience. The app allows users to build custom workouts and track their fitness progress in real-time.",
+      description: "Full-stack workout tracker with full CRUD for workouts and exercises. Implemented JWT authentication, protected routes, and session handling. Used Zod for robust server-side and client-side validation. Responsive dashboard with mobile-first UI and stateful user experience.",
       technologies: ["React", "Next.js", "TypeScript", "MongoDB", "Zustand", "Zod", "Tailwind CSS"],
       github: "https://github.com/ChrisMerinoDev/fit-trakr",
       live: "https://fit-trakr.vercel.app/",
@@ -32,7 +32,7 @@ const ProjectsSection = () => {
     },
     {
       title: "DevLinkVault",
-      description: "A professional developer resource management platform with a clean interface and purple branding. The landing page features a welcoming design with clear login/register options, built specifically for developers to organize and share their essential development links and resources.",
+      description: "A Linktree-style full-stack app for storing developer links. Integrated user registration/login, protected pages, and persistent storage. Used Zod for schema validation on both the frontend and API routes. Focused on clean UX, accessible forms, and responsive layout.",
       technologies: ["Next.js", "TypeScript", "MongoDB", "Zod", "Tailwind CSS"],
       github: "https://github.com/ChrisMerinoDev/DevLinkVault",
       live: "https://dev-link-vault.vercel.app/",
