@@ -58,7 +58,7 @@ const ContactSection = () => {
     {
       icon: Linkedin,
       title: "LinkedIn",
-      href: "https://www.linkedin.com/in/chris-merino-637360318",
+      href: "https://www.linkedin.com/in/chrismerinodev/",
       description: "Let's connect professionally"
     }
   ];

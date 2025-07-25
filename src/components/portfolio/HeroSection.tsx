@@ -70,7 +70,7 @@ const HeroSection = () => {
                 className="border-white/30 text-white hover:bg-white/10 backdrop-blur-sm"
                 asChild
               >
-                <a href="https://www.linkedin.com/in/chris-merino-637360318" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/chrismerinodev/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="w-5 h-5 mr-2" />
                   LinkedIn
                 </a>
